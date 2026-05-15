@@ -164,7 +164,7 @@ export default function LandingPage() {
         variant: "plain"}}
       tag="تواصل معنا"
       title="ابدأ تنظيم أعمالك اليوم"
-      description="فريقنا مستعد للإجابة على استفساراتك وتقديم أفضل الحلول المالية."
+      description="فريقنا مستعد للإجابة على استفساراتك وتقديم أفضل الحلول المالية. يرجى التواصل معنا عبر البريد الإلكتروني: info@jordanfinserv.jo"
       buttons={[
         {
           text: "تواصل عبر الهاتف",          href: "tel:+962790000000"},
